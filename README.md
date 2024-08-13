@@ -72,7 +72,3 @@ The combination of XGBoost and LSTM models demonstrated impressive accuracy in f
 ### 👥 **Connect With Me:**
 - **Yashas D**  
   Connect on LinkedIn. Feel free to reach out for any questions or collaboration opportunities!
-
----
-
-This revised version incorporates the LSTM model, emphasizing the importance of the research and its publication in the IEEE conference.
