@@ -1,21 +1,21 @@
-#🌟 **A Compartive Analysis of Time SeriesbForecasting For Energy Consumption Using XGBoost and LSTM**
+# 🌟 **A Compartive Analysis of Time SeriesbForecasting For Energy Consumption Using XGBoost and LSTM**
 
-🎯 **Business Objective**
+## 🎯 **Business Objective**
 
 In this project, we tackle the challenge of accurately forecasting energy consumption using the powerful XGBoost algorithm, combined with the advanced LSTM model. By analyzing historical data, we aim to provide insights that can help optimize energy usage and improve resource allocation.
 
 This work represents the research presented in our paper titled *"Time Series Forecasting for Energy Consumption Using XGBoost and LSTM,"* which was published at the IEEE 2024 Asia Pacific Conference on Innovation in Technology (APCIT) held in Mysuru, India, on July 26-27, 2024.
 
-**Goals:**
+### **Goals:**
 - Predict future energy consumption trends.
 - Enhance decision-making processes for energy management.
 - Provide actionable insights for policymakers and stakeholders.
 
-📊 **Data Description**
+### 📊 **Data Description**
 
 We use the PJME Hourly Energy Consumption dataset, which includes hourly energy consumption data. This dataset is crucial for developing a model that can forecast energy consumption patterns with high accuracy.
 
-**Dataset Breakdown:**
+### **Dataset Breakdown:**
 - Training Data: 70% of the total data
 - Validation Data: 15% of the total data
 - Test Data: 15% of the total data
@@ -24,7 +24,7 @@ The data includes the following features:
 - Datetime: The timestamp of the energy consumption reading.
 - Energy Consumption: The amount of energy consumed (in MW).
 
-🛠 **Methodology**
+### 🛠 **Methodology**
 
 1. **Data Collection**  
    Historical energy consumption data is gathered from reliable sources.
@@ -52,24 +52,24 @@ The data includes the following features:
    - Interpreting the model's predictions.
    - Visualizing the forecasted trends.
 
-🚀 **Results**
+### 🚀 **Results**
 
 The combination of XGBoost and LSTM models demonstrated impressive accuracy in forecasting energy consumption, with the following performance metrics:
 - Mean Absolute Error (MAE): 3538.94
 - Root Mean Square Error (RMSE): 4325.35
 - Accuracy: 89.05%
 
-🔮 **Future Enhancements**
+### 🔮 **Future Enhancements**
 - **Incorporate Additional Variables**: Including more external factors such as weather data, economic indicators, and policy changes.
 - **Hybrid Models**: Further exploration of hybrid models combining XGBoost with other machine learning and deep learning techniques for improved accuracy.
 - **Enhanced Interpretability**: Developing methods to make the model's predictions more interpretable for stakeholders.
 - **Hyperparameter Tuning**: Further fine-tuning of hyperparameters and expanding the dataset for better model performance.
 
-📂 **Repository Contents**
+### 📂 **Repository Contents**
 - **Dataset**: Historical energy consumption data used for training and evaluating the models.
 - **Source Code**: Implementation of the XGBoost and LSTM models, along with associated scripts.
 
-👥 **Connect With Me:**
+### 👥 **Connect With Me:**
 - **Yashas D**  
   Connect on LinkedIn. Feel free to reach out for any questions or collaboration opportunities!
 
