@@ -1,4 +1,4 @@
-# 🌟 **A Compartive Analysis of Time SeriesbForecasting For Energy Consumption Using XGBoost and LSTM**
+# 🌟 **A Compartive Analysis of Time Series Forecasting For Energy Consumption Using XGBoost and LSTM**
 
 ## 🎯 **Business Objective**
 
