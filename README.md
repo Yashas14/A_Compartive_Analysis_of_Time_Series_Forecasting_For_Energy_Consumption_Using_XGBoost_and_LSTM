@@ -70,5 +70,6 @@ The combination of XGBoost and LSTM models demonstrated impressive accuracy in f
 - **Source Code**: Implementation of the XGBoost and LSTM models, along with associated scripts.
 
 ### 👥 **Connect With Me:**
-- **Yashas D**  
-  Connect on LinkedIn. Feel free to reach out for any questions or collaboration opportunities!
+
+**Yashas D** [Connect on LinkedIn](https://www.linkedin.com/in/yashasd2004/)
+Feel free to reach out for any questions or collaboration opportunities!
